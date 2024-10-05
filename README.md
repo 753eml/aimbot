@@ -6,4 +6,4 @@
 
 ### Changelogs:
 
-### 05/10/2024 14:49:45 - (Script, Website) Release [will probably never update this after]
+### 05/10/2024 14:49:45 - (Script, Website) Release [I will probably never update/change this after]
