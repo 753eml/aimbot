@@ -10,8 +10,10 @@
 
 ### 05/10/2024 14:49:45 - (Script, Website) Release [I will probably never update/change this script after]
 
-### 05/10/2024 18:06:40 - (Minor Update) (Website Update) Changed airhub file to .lua
+### 05/10/2024 18:06:40 - (Minor change) (Website Update) Changed airhub file to .lua
 
-### 05/10/2024 18:42:20 - (Minor Update) (Website Update) Added a self-advertisement on this website to my main website.
+### 05/10/2024 18:42:20 - (Minor change) (Website Update) Added a link, that goes to my main website.
+
+### 09/10/2024 18:19:10 - (Minor change) (Website Update) Changed Website theme.
 
 ### [https://753eml.github.io](https://753eml.github.io) for other info/stuff!
